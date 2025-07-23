@@ -1,0 +1,30 @@
+[
+    {
+      "id": "a1b2c3d4",
+      "name": "Math Assignment",
+      "subject": "Mathematics",
+      "duration": 2,
+      "deadline": "2025-07-20",
+      "priority": 4,
+      "difficulty": 3
+    },
+    {
+      "id": "e5f6g7h8",
+      "name": "History Essay",
+      "subject": "History",
+      "duration": 1.5,
+      "deadline": "2025-07-21",
+      "priority": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "i9j0k1l2",
+      "name": "Science Revision",
+      "subject": "Science",
+      "duration": 3,
+      "deadline": "2025-07-22",
+      "priority": 5,
+      "difficulty": 4
+    }
+  ]
+  
